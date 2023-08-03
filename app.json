@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Secure-Sphere-VPN",
+    "slug": "Secure-Sphere-VPN"
+  }
+}
